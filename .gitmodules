@@ -1,0 +1,3 @@
+[submodule "trulens"]
+	path = trulens
+	url = https://github.com/truera/trulens.git
